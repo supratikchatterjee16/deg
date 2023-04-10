@@ -15,7 +15,7 @@ requirements_noversion = [
 setup(
 	# Meta information
 	name				= 'deg',
-	version				= '1.0.0',
+	version				= '1.0.1',
 	author				= 'Supratik Chatterjee',
 	author_email			= 'supratikdevm96@gmail.com',
 	url				= 'https://github.com/supratikchatterjee16/deg',
